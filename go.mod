@@ -9,5 +9,5 @@ require (
 
 require github.com/richardlehane/msoleps v1.0.3 // indirect
 
-// Patch stack on top of upstream: https://github.com/anaelorlinski/ledongthuc-pdf (branch custom-patchstack)
-replace github.com/ledongthuc/pdf => github.com/anaelorlinski/ledongthuc-pdf v0.0.0-20261022130331-bff09c2136ea
+// Patch stack on top of upstream: https://github.com/anaelorlinski/ledongthuc-pdf (branch patchstack-1)
+replace github.com/ledongthuc/pdf => github.com/anaelorlinski/ledongthuc-pdf v0.0.0-20261022134345-34ac569769fd
